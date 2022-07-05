@@ -1,0 +1,51 @@
+Making a Cup of Tea
+
+START: 42.92111485214994, -78.89905594914882 (Mentholatum Building, Floor 4, Apartment 402, Kitchen
+
+Fill Kettle:
+    lift red le crueset tea kettle from top right burner
+    remove lid from kettle
+    set lid on counter
+    turn 90 degrees to the west
+    walk forward 73.15cm
+    turn 90 degrees to the north
+    hold kettle 121.92cm above the floor
+    push kettle forward 7.62cm and hold
+    locate button labeled 'water' 9.49cm above kettle
+    press 'water' with hand not holding kettle and hold for 32 seconds
+    stop pressing 'water'
+    pull kettle back and return to starting position with kettle
+    replace kettle lid
+
+Heat Water:
+    set kettle on bottom right burner
+    locate knobs 12.7cm above burner straight ahead
+    press the knob located in the right-most position
+    turn knob 45 degrees to the right
+    stop pressing knob
+    wait ten minutes
+    after ten minutes return right-most knob to starting position
+
+Retrieve Mug:
+    turn 90 degrees to the west
+    walk forward 45.72cm
+    turn 90 degrees to the north
+    open cabinet in front of face
+    select mug
+    remove mug from cabinet and set on counter
+
+Retrieve Teabag:
+    on counter locate polka dot canister
+    remove lid from polka dot canister
+    retrieve teabag from canister
+    put teabag in mug on counter
+
+Pour Tea:
+    retrieve kettle from stove
+    return to mug
+    while mug has more than 1.9cm between liquid and mug lip
+        tilt kettle by 10 degrees until water pours out of kettle
+    return kettle to stovetop
+    wait three minutes
+    remove teabag from mug, leave on counter
+
